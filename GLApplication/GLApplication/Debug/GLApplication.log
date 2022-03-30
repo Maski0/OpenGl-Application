@@ -1,0 +1,8 @@
+﻿  GLApplication.cpp
+  image_DXT.c
+  image_helper.c
+  SOIL2.c
+  wfETC.c
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLApplication.vcxproj -> W:\Cpp\OpenGL-Application\GLApplication\Debug\GLApplication.exe
