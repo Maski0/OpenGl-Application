@@ -41,10 +41,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Core.vs">
+    <None Include="res\shaders\Core.vs">
       <Filter>Resource Files\Shaders</Filter>
     </None>
-    <None Include="Core.frag">
+    <None Include="res\shaders\Core.frag">
       <Filter>Resource Files\Shaders</Filter>
     </None>
   </ItemGroup>
@@ -102,6 +102,9 @@
     </ClInclude>
     <ClInclude Include="SOIL2\stbi_pvr_c.h">
       <Filter>Soil2</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
