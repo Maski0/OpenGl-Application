@@ -152,8 +152,10 @@
     <ClCompile Include="SOIL2\wfETC.c" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\shaders\Core.frag" />
-    <None Include="res\shaders\Core.vs" />
+    <None Include="res\shaders\Lamp.frag" />
+    <None Include="res\shaders\Lamp.vs" />
+    <None Include="res\shaders\Lighting.frag" />
+    <None Include="res\shaders\Lighting.vs" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h" />

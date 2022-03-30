@@ -41,10 +41,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\shaders\Core.vs">
+    <None Include="res\shaders\Lighting.vs">
       <Filter>Resource Files\Shaders</Filter>
     </None>
-    <None Include="res\shaders\Core.frag">
+    <None Include="res\shaders\Lighting.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="res\shaders\Lamp.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="res\shaders\Lamp.vs">
       <Filter>Resource Files\Shaders</Filter>
     </None>
   </ItemGroup>
